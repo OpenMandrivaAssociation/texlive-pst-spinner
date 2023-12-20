@@ -1,6 +1,6 @@
 Name:		texlive-pst-spinner
-Version:	61719
-Release:	2
+Version:	66115
+Release:	1
 Summary:	Drawing a fidget spinner
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-spinner
