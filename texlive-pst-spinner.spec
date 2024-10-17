@@ -3,7 +3,7 @@ Version:	66115
 Release:	1
 Summary:	Drawing a fidget spinner
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-spinner
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-spinner
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-spinner.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-spinner.doc.r%{version}.tar.xz
